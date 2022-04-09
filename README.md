@@ -14,3 +14,7 @@ In this assignment, we use Toronto neighbourhood data from Canada's 2001, 2006, 
 
 ## Dashboard notebook
 In this notebook we, import the relevant libraries, initialize the panel extension, import the . csv files from the Rental Analysis notebook, obtain the data we used for our plots in the previous notebook, and create functions for panels (that will contain the plots above). We finish this notebook by creating a dashboard title, defining a welcome text, and setting the appropriate tab layout. 
+
+
+### Note
+To view visualizatins, please refer to the .pdf versions of the Dashboard notebook and the Rental Analysis files. For the mapbox plot and dashboard welcome page, please refer to the .pdf called mapbox.pdf. 
