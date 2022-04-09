@@ -17,4 +17,4 @@ In this notebook we, import the relevant libraries, initialize the panel extensi
 
 
 ### Note
-To view visualizatins, please refer to the .pdf versions of the Dashboard notebook and the Rental Analysis files. For the mapbox plot and dashboard welcome page, please refer to the .pdf called mapbox.pdf. 
+To view visualizations, please refer to the .pdf versions of the Dashboard notebook and the Rental Analysis files. For the mapbox plot and dashboard welcome page, please refer to the .pdf called mapbox.pdf. 
